@@ -1,0 +1,7 @@
+# Standard R Items
+.rhistory
+.rData
+.rprofile
+
+# Credentials
+credentials.R
